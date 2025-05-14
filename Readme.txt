@@ -1,0 +1,1 @@
+The Attendance System Using Face Recognition is a project developed in Python that aims to automate the attendance process in various settings such as schools, universities, or workplaces. By leveraging face recognition technology, this system eliminates the need for manual attendance tracking, saving time and reducing errors.
